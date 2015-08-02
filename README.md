@@ -19,6 +19,7 @@
 </div>`
 
 ####Файли XML/JSON
+Файли парсити одразу за допомогою PHP по вказаних URL
 * JSON файл URL https://raw.githubusercontent.com/nickua/testtaskfiles/master/images.json
 * XML файл URL https://raw.githubusercontent.com/nickua/testtaskfiles/master/images.xml
 
